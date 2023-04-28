@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@meicandrakartikasari's Codewars badges](https://www.codewars.com/users/meicandrakartikasari/badges/large)](https://www.codewars.com/users/meicandrakartikasari)
+
 ![meicandrakartikasari's GitHub stats](https://github-readme-stats.vercel.app/api?username=meicandrakartikasari&count_private=true&show_icons=true&theme=react)
 
 <!--
